@@ -6,3 +6,4 @@ __pycache__/
 pgdata/
 postgres-data/
 *.dump
+.idea/
